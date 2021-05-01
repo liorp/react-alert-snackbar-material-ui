@@ -9,7 +9,8 @@
   },
   "files": [
     "dist/index.js",
-    "dist/index.js.map"
+    "dist/index.js.map",
+    "index.tsx"
   ],
   "repository": {
     "type": "git",
