@@ -1,0 +1,35 @@
+{
+  "name": "react-alert-template-snackbar-material-ui",
+  "version": "1.0.0",
+  "description": "A material-ui based snackbar template for the react-alert package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liorp/react-alert-snackbar-material-ui.git"
+  },
+  "keywords": [
+    "react-alert",
+    "material-ui",
+    "react"
+  ],
+  "author": "Lior Pollak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liorp/react-alert-snackbar-material-ui/issues"
+  },
+  "homepage": "https://github.com/liorp/react-alert-snackbar-material-ui#readme",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.10.2",
+    "@material-ui/lab": "^4.0.0-alpha.58",
+    "@types/react-alert": "^5.2.0",
+    "react": "^16.14.0",
+    "react-alert": "^7.0.2",
+    "react-dom": "^16.14.0"
+  }
+}
