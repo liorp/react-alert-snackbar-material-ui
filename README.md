@@ -1,14 +1,14 @@
-# react-alert-template-mui
+# react-alert-template-snackbar-material-ui
 
 ## Installation
 
 ```
-npm install react-alert-snackbar-material-ui-template
+npm install react-alert-template-snackbar-material-ui
 ```
 
 ## Demo
 
-[![Edit react-alert-template-mui example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-alert-template-mui-example-up2ys?fontsize=14)
+[![Edit react-alert-template-snackbar-material-ui example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-alert-template-material-ui-snackbar-tm0e7?fontsize=14)
 
 ## How to Use
 
