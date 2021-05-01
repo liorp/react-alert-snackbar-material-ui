@@ -4,7 +4,7 @@
   "description": "A material-ui based snackbar template for the react-alert package.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No test specified\"
+    "test": "echo \"No test specified\""
   },
   "files": ["index.tsx", "tsconfig.json"],
   "repository": {
