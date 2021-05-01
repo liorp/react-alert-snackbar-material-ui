@@ -2,14 +2,11 @@
   "name": "react-alert-template-snackbar-material-ui",
   "version": "1.0.3",
   "description": "A material-ui based snackbar template for the react-alert package.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"No test specified\""
+    "test": "echo \"No test specified\"",
+    "build": "tsc"
   },
-  "files": [
-    "index.ts",
-    "tsconfig.json"
-  ],
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/liorp/react-alert-snackbar-material-ui.git"
