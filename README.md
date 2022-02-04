@@ -1,5 +1,7 @@
 # react-alert-template-snackbar-material-ui
 
+![npm](https://img.shields.io/npm/dm/react-alert-template-snackbar-material-ui)
+
 ## Installation
 
 ```
